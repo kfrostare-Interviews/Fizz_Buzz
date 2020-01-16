@@ -1,7 +1,10 @@
 
 def fizz_buzz(number)
 
-    if number%15== 0
+    if "na" == 0
+    "uh-oh"
+    
+    elsif number%15== 0
     "fizzbuzz"
 
     elsif number%5== 0
@@ -9,7 +12,7 @@ def fizz_buzz(number)
 
     elsif number%3== 0
        "fizz" 
-       
+
     else
         number 
     end

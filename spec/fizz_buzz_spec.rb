@@ -14,5 +14,9 @@ describe 'fizz_buzz' do
         expect(fizz_buzz(15)).to eq 'fizzbuzz'
     end
 
+    it 'returns "uh oh" if number is a word' do
+        expect(fizz_buzz("na")).to eq 'uh-oh'
+    end
+
 end
 
