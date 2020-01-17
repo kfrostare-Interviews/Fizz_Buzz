@@ -1,16 +1,21 @@
 
-def fizz_buzz(number)
+output = []
 
-    if "na" == 0
-    "uh-oh"
+def wordinput(letters)
+    if letters==("a-zA-Z")
+        "uh-oh"
+    end
+end
+
+def fizz_buzz(number)
     
-    elsif number%15== 0
+    if number%15 == 0
     "fizzbuzz"
 
-    elsif number%5== 0
+    elsif number%5 == 0
         "buzz"
 
-    elsif number%3== 0
+    elsif number%3 == 0
        "fizz" 
 
     else
