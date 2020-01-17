@@ -15,7 +15,7 @@ describe 'fizz_buzz' do
     end
 
     it 'returns "uh-oh" if number is a word' do
-        expect(wordinput(letters)).to eq 'uh-oh'
+        expect(fizz_buzz("7")).to eq 'uh-oh'
     end
 
 end
