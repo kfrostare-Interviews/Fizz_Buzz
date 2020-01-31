@@ -1,4 +1,4 @@
-# TDD using FizzBuzz
+# Fizz-Buzz
 **Week 2 of learning how to code.** 
 We explore working with Ruby and Test Driven Development by building the children's game called *FizzBuzz*. The game can also occur as a coding challenge in job interviews.
 
