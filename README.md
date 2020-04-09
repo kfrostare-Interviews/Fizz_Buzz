@@ -3,9 +3,9 @@
 We explore working with Ruby and Test Driven Development by building the children's game called *FizzBuzz*. The game can also occur as a coding challenge in job interviews.
 
 ### Fizz-Buzz
-...is a game for children learn division. Players take turns counting up from one, replacing any number that is divisible by three with the word *'fizz'*, any number divisible by five with the word *'buzz'*, and any number divisible by both three and five to be replaced with *'fizz buzz'*.
+...is a game for children to learn division. Players take turns counting up from one, replacing any number that is divisible by three with the word *'fizz'*, any number divisible by five with the word *'buzz'*, and any number divisible by both three and five to be replaced with *'fizz buzz'*.
 
-*More information below the image.*
+*More information below the image.*<br>
 ![The childrens game "FizzBuzz"](fizzbuzz.jpg)
 
 ### Assignment
